@@ -1,4 +1,5 @@
 The README contains data corresponds to each Chapter in the candidate's thesis for reproducibility:
+
 Chapter 2: Scope+ (Published)
 Scope+ is an open-source, generalizable architecture for large-scale single-cell RNA-seq atlas analysis at both sample and cell levels. The source code and documentation are publicly available:
 GitHub repository: https://github.com/holab-hku/scopeplus (Full source code, installation guides, and example workflows)
